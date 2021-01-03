@@ -10,6 +10,9 @@
       <mdb-btn tag="a" gradient="peach" floating><mdb-icon icon="leaf"/></mdb-btn>
       <mdb-btn tag="a" gradient="blue" floating size="sm"><mdb-icon icon="star"/></mdb-btn>
     </div>
+    <div>
+      <mdb-btn outline="primary" darkWaves rounded>Primary outline button</mdb-btn>
+    </div>
   </div>
   
 </template>
